@@ -303,6 +303,3 @@ Source of the pokemon fusions images used in this project. <br>
 
 MIT
 
----
-
-> GitHub [@CarlosAlegreUr](https://github.com/CarlosAlegreUr)
